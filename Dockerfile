@@ -1,5 +1,5 @@
 # Production Dockerfile for LangExtract
-FROM python:3.10-slim
+FROM python:3.15.2-slim
 
 # Set working directory
 WORKDIR /app
